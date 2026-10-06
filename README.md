@@ -21,7 +21,7 @@
 This project showcases an advanced **hybrid machine learning model** that combines traditional ML techniques with a **deep learning attention mechanism** to identify and stop **botnet attacks** in **IoT (Internet of Things)** environments.
 
 > ⚠️ Real-time detection. Neural Attention. Future-proof security.
-
+> Working Efficeiny rate is ++
 ---
 
 ## 📌 Why This Project?
